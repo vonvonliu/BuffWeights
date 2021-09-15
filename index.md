@@ -1,3 +1,14 @@
+## Welcome to the BuffWeights Project
+
+BuffWeights is a set of weights targeted toward weight-training enthusiasts that sense the number of complete repetitions and sets performed on that particular weight. This combination of the weights and the companion app will help solve the problem of the user forgetting how heavy they last trained and how many reps they needed to perform to reach failure since the weights and app will track them for the user. 
+
+### Team Member
+Yvonne Liu
+Email: yuli4421@colorado.edu
+
+### Project Proposal
+[Proposal PDF](https://github.com/vonvonliu/BuffWeights/blob/gh-pages/Project%20Proposal-%20BuffWeights.pdf)
+<!---
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/vonvonliu/BuffWeights/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -35,3 +46,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+-->
