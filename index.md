@@ -1,13 +1,15 @@
 ## Welcome to the BuffWeights Project
 
-BuffWeights is a set of weights targeted toward weight-training enthusiasts that sense the number of complete repetitions and sets performed on that particular weight. This combination of the weights and the companion app will help solve the problem of the user forgetting how heavy they last trained and how many reps they needed to perform to reach failure since the weights and app will track them for the user. 
+  BuffWeights is a set of weights targeted toward weight-training enthusiasts that sense the number of complete repetitions and sets performed on that particular weight. This combination of the weights and the companion app will help solve the problem of the user forgetting how heavy they last trained and how many reps they needed to perform to reach failure since the weights and app will track them for the user. 
 
 ### Team Member
 Yvonne Liu
 
 Email: yuli4421@colorado.edu
 
-### Project Proposal
+## Deliverables
+
+1. Project Proposal
 [Proposal PDF](https://github.com/vonvonliu/BuffWeights/blob/gh-pages/Project%20Proposal-%20BuffWeights.pdf)
 
 
