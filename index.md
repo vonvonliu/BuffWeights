@@ -10,7 +10,6 @@ Email: yuli4421@colorado.edu
 ### Deliverables
 
 1. Project Proposal
-
 [Proposal PDF](https://github.com/vonvonliu/BuffWeights/blob/gh-pages/Project%20Proposal-%20BuffWeights.pdf)
 
 
