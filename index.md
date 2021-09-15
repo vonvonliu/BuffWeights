@@ -4,10 +4,13 @@ BuffWeights is a set of weights targeted toward weight-training enthusiasts that
 
 ### Team Member
 Yvonne Liu
+
 Email: yuli4421@colorado.edu
 
 ### Project Proposal
 [Proposal PDF](https://github.com/vonvonliu/BuffWeights/blob/gh-pages/Project%20Proposal-%20BuffWeights.pdf)
+
+
 <!---
 ## Welcome to GitHub Pages
 
