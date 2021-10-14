@@ -9,7 +9,11 @@ Email: yuli4421@colorado.edu
 
 ### Deliverables
 
-1. [Proposal](https://github.com/vonvonliu/BuffWeights/blob/gh-pages/ProjectProposal.pdf)
+1. [Proposal](https://vonvonliu.github.io/BuffWeights/ProjectProposal.pdf)
+2. User Research
+    a) [User Research Summary, Persona and Task Model]()
+    b) [Interview](https://vonvonliu.github.io/BuffWeights/User%20Research/UserResearchInterview.pdf)
+    c) [Surverys](https://vonvonliu.github.io/BuffWeights/User%20Research/UserResearchSurvey.csv )
 
 
 <!---
