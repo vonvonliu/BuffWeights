@@ -12,11 +12,11 @@ Email: yuli4421@colorado.edu
 1. [Proposal](https://vonvonliu.github.io/BuffWeights/ProjectProposal.pdf)
 2. User Research
 
-    a) [User Research Summary, Persona and Task Model]()
+    a) [Summary, Persona, and Task Model](https://vonvonliu.github.io/BuffWeights/User%20Research/SummaryPersonaTaskModel.pdf)
     
     b) [Interview](https://vonvonliu.github.io/BuffWeights/User%20Research/UserResearchInterview.pdf)
     
-    c) [Surverys](https://vonvonliu.github.io/BuffWeights/User%20Research/UserResearchSurvey.csv )
+    c) [Surverys](https://vonvonliu.github.io/BuffWeights/User%20Research/UserResearchSurveys.csv)
 
 
 <!---
