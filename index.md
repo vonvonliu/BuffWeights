@@ -17,6 +17,8 @@ Email: yuli4421@colorado.edu
     b) [Interview](https://vonvonliu.github.io/BuffWeights/User%20Research/UserResearchInterview.pdf)
     
     c) [Surverys](https://vonvonliu.github.io/BuffWeights/User%20Research/UserResearchSurveys.csv)
+    
+    d) [Prototype](https://www.figma.com/file/3Iy0L3ZBYKaECQEox9VFDC/BuffWeightsPrototype?node-id=0%3A1)
 
 
 <!---
